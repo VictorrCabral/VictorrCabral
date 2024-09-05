@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Cabral</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An enthusiastic software student with a passion for coding and quality, based in Brazil.🇧🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorrcabral&label=Profile%20views&color=0e75b6&style=flat" alt="victorrcabral" /> </p>
 
