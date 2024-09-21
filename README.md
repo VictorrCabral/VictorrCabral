@@ -22,5 +22,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorrcabral&show_icons=true&theme=dark&title_color=ffffff&text_color=fafafa&locale=en&layout=compact" alt="victorrcabral" />
+
+  ### Snake Game
+![Snake animation](https://github.com/victorrcabral/victorrcabral/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
