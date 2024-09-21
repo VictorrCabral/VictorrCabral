@@ -17,6 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=aws,bootstrap,cs,dotnet,html,css,flask,git,grafana,idea,vscode,java,js,jenkins,linux,mysql,py,spring,selenium" />
 </div>
