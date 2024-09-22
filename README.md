@@ -25,7 +25,3 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorrcabral&show_icons=true&theme=dark&title_color=ffffff&text_color=fafafa&locale=en&layout=compact" alt="victorrcabral" />
-
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+your+attention!;" />
-</h1>
