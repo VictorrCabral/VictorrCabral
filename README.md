@@ -19,9 +19,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=aws,bootstrap,cs,dotnet,html,css,flask,git,grafana,idea,vscode,java,js,jenkins,linux,mysql,py,spring,selenium, playwright" />
+  <img src="https://skillicons.dev/icons?i=aws,bootstrap,cs,dotnet,html,css,flask,git,grafana,idea,vscode,java,js,jenkins,linux,mysql,py,spring,selenium,playwright" />
 </div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorrcabral&show_icons=true&theme=dark&title_color=ffffff&text_color=fafafa&locale=en&layout=compact" alt="victorrcabral" />
