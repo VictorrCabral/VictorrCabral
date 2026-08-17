@@ -19,5 +19,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=aws,bootstrap,html,css,flask,git,grafana,vscode,java,js,jenkins,linux,mysql,py,spring,selenium" />
+  <img src="https://skillicons.dev/icons?i=aws,bootstrap,html,css,flask,git,grafana,vscode,java,js,linux,mysql,py,spring,selenium" />
 </div>
