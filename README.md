@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=victorrcabral&label=Profile%20views&color=000000&style=flat" alt="victorrcabral" /> </p>
 
-- 🌱 I’m currently learning about **AWS, .NET and C#**
+- 🌱 I’m currently learning about **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VictorrCabral](https://github.com/VictorrCabral)
 
